@@ -1,0 +1,1 @@
+zookeeper=com.gda.rpc.core.registry.zookeeper.ZookeeperRegister

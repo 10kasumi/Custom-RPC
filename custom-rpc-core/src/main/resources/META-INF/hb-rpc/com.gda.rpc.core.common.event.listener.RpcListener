@@ -1,0 +1,3 @@
+providerNodeUpdateListener=com.gda.rpc.core.common.event.listener.ProviderNodeUpdateListener
+serviceDestroyListener=com.gda.rpc.core.common.event.listener.ServiceDestroyListener
+serviceUpdateListener=com.gda.rpc.core.common.event.listener.ServiceUpdateListener

@@ -1,0 +1,4 @@
+serverLogFilterImpl=com.gda.rpc.core.filter.server.ServerLogFilterImpl
+serverTokenFilterImpl=com.gda.rpc.core.filter.server.ServerTokenFilterImpl
+serverServiceBeforeLimitFilterImpl=com.gda.rpc.core.filter.server.ServerServiceBeforeLimitFilterImpl
+serverServiceAfterLimitFilterImpl=com.gda.rpc.core.filter.server.ServerServiceAfterLimitFilterImpl

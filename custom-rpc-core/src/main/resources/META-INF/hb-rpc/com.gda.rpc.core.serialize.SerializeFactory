@@ -1,0 +1,4 @@
+jdk=com.gda.rpc.core.serialize.jdk.JdkSerializeFactory
+fastJson=com.gda.rpc.core.serialize.fastjson.FastJsonSerializeFactory
+hessian=com.gda.rpc.core.serialize.hessian.HessianSerializeFactory
+kryo=com.gda.rpc.core.serialize.kryo.KryoSerializeFactory

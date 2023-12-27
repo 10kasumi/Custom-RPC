@@ -1,0 +1,2 @@
+jdk=com.gda.rpc.core.proxy.jdk.JDKProxyFactory
+javassist=com.gda.rpc.core.proxy.javassist.JavassistProxyFactory

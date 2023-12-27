@@ -1,0 +1,2 @@
+random=com.gda.rpc.core.router.RandomRouterImpl
+rotate=com.gda.rpc.core.router.RotateRouterImpl
